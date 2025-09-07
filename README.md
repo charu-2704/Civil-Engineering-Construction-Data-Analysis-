@@ -16,5 +16,6 @@ Tools Used: Power BI Desktop, Power query editor, DAX (Data Analysis Expressions
 
 ![Dashboard](Construction_insights_dashboard.png)
 
-[📄 View Civil Construction Report](Civil%20Construction1.pdf)
+[📊 Open PDF Dashboard](https://username.github.io/repo-name/Civil%20Construction1.pdf)
+
 
