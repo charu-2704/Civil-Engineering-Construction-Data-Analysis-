@@ -15,3 +15,6 @@ Tools Used: Power BI Desktop, Power query editor, DAX (Data Analysis Expressions
 . Provide interactive dashboards for real-time project insights.
 
 ![Dashboard](Construction_insights_dashboard.png)
+
+[📄 View Civil Construction Report](Civil%20Construction1.pdf)
+
