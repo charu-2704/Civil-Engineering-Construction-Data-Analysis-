@@ -13,3 +13,5 @@ Tools Used: Power BI Desktop, Power query editor, DAX (Data Analysis Expressions
 . Identify high-risk projects for better risk management.
 
 . Provide interactive dashboards for real-time project insights.
+
+![Dashboard](Construction_insights_dashboard.png)
